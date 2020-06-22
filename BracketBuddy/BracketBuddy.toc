@@ -1,7 +1,0 @@
-## Title: BracketBuddy
-## Version: 1.0.1
-## Author: Nascar
-## Interface: 80205
-## SavedVariablesPerCharacter: BB_Invite_Say BB_Invite_Whisper BracketCountTable BracketChampionTable
-
-Frame.xml
